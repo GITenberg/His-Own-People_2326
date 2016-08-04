@@ -1,0 +1,36 @@
+_repo: His-Own-People_2326
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, Newton Booth
+    - Van Loot, Cornelius Obenchain
+    - Tarkington, B. (Booth)
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: Many people who are traveling abroad take the opportunity to forge a
+  new, albeit temporary, identity for themselves. In his quest to be welcomed among
+  the upper crust in Europe, American Robert Russ Mellin creates a moneyed, cultured
+  alter ego. However, before long, Mellin happens to encounter a man who is the embodiment
+  of everything that he himself aspires to be. Will he survive this collision of the
+  real and the imaginary?
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Americans -- Italy -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Rome (Italy) -- Social life and customs -- 20th century -- Fiction'
+- GITenberg
+title: His Own People
+url: http://www.gutenberg.org/ebooks/2326
