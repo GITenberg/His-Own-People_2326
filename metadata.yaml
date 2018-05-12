@@ -1,5 +1,8 @@
 _repo: His-Own-People_2326
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tarkington, Booth
@@ -18,6 +21,8 @@ description: Many people who are traveling abroad take the opportunity to forge 
   alter ego. However, before long, Mellin happens to encounter a man who is the embodiment
   of everything that he himself aspires to be. Will he survive this collision of the
   real and the imaginary?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2326#His-Own-People
 gutenberg_issued: '2006-02-26'
 gutenberg_type: Text
 identifiers:
